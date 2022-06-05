@@ -1,5 +1,7 @@
 # AtekkoSheet
 
+Let's play Atekko in the Google Spreadsheet.
+
 <img width="50%" alt="" src="./img/01-01_outline.jpg">
 
 # Table of Contents
